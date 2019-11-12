@@ -1,8 +1,9 @@
 # Site settings
-title: xixi
+title: xixi 
 description: xixi's portfolio :)
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site
+
 
 # User settings
 username: Lenix Lobo
@@ -12,6 +13,7 @@ email: lenixlobo@gmail.com
 twitter_username: lenixlobo
 github_username:  lenixlobo
 gplus_username:  xixi
+
 
 # Google-analytics
 google-analytics:
